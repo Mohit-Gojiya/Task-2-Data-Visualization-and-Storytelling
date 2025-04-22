@@ -57,6 +57,9 @@ Each visual highlights a specific insight with minimal clutter and strategic use
 - Final Dashboard PDF
 - This README file
 
+- ![Screenshot 2025-04-22 204608](https://github.com/user-attachments/assets/b1bbf9a0-329b-46c4-8949-bef2fd7cb3fd)
+
+
 ## ✅ Outcome
 Learned how to:
 - Choose the right charts
